@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>flipkart</groupId>
 	<artifactId>myntra</artifactId>
-	<version>6.3-RELEASE</version>
+	<version>6.3-SNAPSHOT</version>
 	<name>myntra</name>
 	<description>Demo project for Spring Boot</description>
 
