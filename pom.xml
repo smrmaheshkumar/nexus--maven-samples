@@ -54,11 +54,11 @@
 	<distributionManagement>
     <snapshotRepository>
       <id>nexusdeploymentrepo</id>
-      <url>http://34.122.147.224:8081/repository/maven-snapshots/</url>
+      <url>http://52.64.212.87:8081/repository/vinayaka_maven_snapshot/</url>
     </snapshotRepository>
 	<repository>
 	  <id>nexusdeploymentrepo</id>
-      <url>http://34.122.147.224:8081/repository/maven-releases/</url>
+      <url>http://52.64.212.87:8081/repository/vinayaka_maven_releases/</url>
     </repository>
   
   </distributionManagement>
