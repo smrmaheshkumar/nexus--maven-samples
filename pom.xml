@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>flipkart</groupId>
 	<artifactId>myntra</artifactId>
-	<version>6.5-SNAPSHOT</version>
+	<version>1.0-RELEASE</version>
 	<name>myntra</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -54,11 +54,11 @@
 	<distributionManagement>
     <snapshotRepository>
       <id>nexusdeploymentrepo</id>
-      <url>http://52.64.212.87:8081/repository/vinayaka_maven_snapshot/</url>
+      <url>http://184.73.139.181:8081/repository/my_maven_snapshots/</url>
     </snapshotRepository>
 	<repository>
 	  <id>nexusdeploymentrepo</id>
-      <url>http://52.64.212.87:8081/repository/vinayaka_maven_releases/</url>
+      <url>http://184.73.139.181:8081/repository/my_maven_releases/</url>
     </repository>
   
   </distributionManagement>
