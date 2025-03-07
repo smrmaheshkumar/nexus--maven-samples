@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>flipkart</groupId>
-	<artifactId>myntra</artifactId>
+	<artifactId>clothing</artifactId>
 	<version>1.0-RELEASE</version>
-	<name>myntra</name>
+	<name>clothing</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
